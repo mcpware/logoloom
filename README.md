@@ -9,6 +9,8 @@
   <img src="docs/demo.png" alt="LogoLoom brand kit output" width="800">
 </p>
 
+[![logoloom MCP server](https://glama.ai/mcp/servers/mcpware/logoloom/badges/card.svg)](https://glama.ai/mcp/servers/mcpware/logoloom)
+
 ## The Problem
 
 Getting a logo for your side project shouldn't cost $96 (Looka) or require juggling Canva + favicon generator + OG image maker + manual PNG exports. Logo is the #1 shipping blocker for indie devs — not because it's hard, but because the tooling sucks.
